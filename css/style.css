@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;1,600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 50em;
+  height: 300px;
+  margin: 5em 0 0 20em;
+  border-radius: 5px;
+  background: #d1dde3;
+}
+.ojo{
+  width: 100%;
+  margin: 20px 0 20px 0;
+}
+.rich{
+    color: red;
+}
+.experience{
+  margin: 20px 0 20px 0;
+}
+.exp{
+    color: red;
+}
+.zuri{
+  margin: 0px 0 10px 0;
+}
+.noil{
+    margin: 20px 0 20px 0;
+}
+.outright{
+    margin: 20px 0 20px 0;
+}
+.education{
+    margin: 20px 0 20px 0;
+}
+.ed{
+    color: red;
+}
+.fut{
+    margin: 20px 0 20px 0;
+}
+.daystar{
+    margin: 20px 0 20px 0;
+}
+.project{
+        margin: 20px 0 20px 0;
+}
+.daystar1{
+    margin: 20px 0 20px 0;
+}
+.daystar2{
+    margin: 20px 0 20px 0;
+}
+.daystar3{
+    margin: 20px 0 20px 0;
+}
+.becc{
+    margin: 20px 0 20px 0;
+}
+.skills{
+    color: red;
+    margin-bottom: 10px;
+}
+.tools{
+    color: red;
+    margin: 10px 0 10px 0;
+}
+.hero{
+  box-shadow: 6px 6px 20px rgba(122, 122, 122, 5.0);
+}
